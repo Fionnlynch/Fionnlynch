@@ -3,10 +3,7 @@
 A self-driven, problem-solving technologist focused on mastering modern development ecosystems, automated version control workflows, and systems engineering.
 
 <p align="left">
-  <img src="https://shields.io" alt="macOS" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-  <img src="https://shields.io" alt="VS Code" />
+  <img src="https://skillicons.dev" alt="My Tech Stack" />
 </p>
 
 ---
@@ -28,7 +25,8 @@ A dedicated technical repository demonstrating deep execution of enterprise-leve
 ---
 
 ### 📊 Live GitHub Dynamics
-<p align="left">
-<img src="https://vercel.app" alt="Fionn's Git Stats" height="150" />
-<img src="https://vercel.app" alt="Fionn's Top Languages" height="150" />
-</p>
+<!-- Wrapped to disable non-image click-through errors -->
+<div align="left">
+  <img src="https://vercel.app" alt="Fionn's Git Stats" height="150" pointer-events="none" />
+  <img src="https://vercel.app" alt="Fionn's Top Languages" height="150" pointer-events="none" />
+</div>
