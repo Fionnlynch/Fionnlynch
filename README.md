@@ -15,11 +15,37 @@ A self-driven, problem-solving technologist focused on mastering modern developm
 
 ---
 
-### 🚀 Highlighted Engineering Project
-#### [Git & GitHub Acceleration Sprint](https://github.com)
-A dedicated technical repository demonstrating deep execution of enterprise-level version control habits.
-* **Timeline Clashing:** Engineered intentional merge conflicts, successfully parsing conflict indicators (`<<<<<<<` and `>>>>>>>`) to systematically restore stable environments.
-* **CI/CD Pipeline Automation:** Implemented terminal-to-cloud mapping scripts using tracking tags (`Closes #1`) to automatically drive project board workflows strictly via Git execution.
+### 🚀 Featured Code Base Architectural Blueprint
+
+Below is the production directory layout of my core foundational project, demonstrating strict repository hygiene and environment isolation.
+
+```text
+git-practice/
+├── .gitignore             # Explicit local rules filtering out Mac system junk
+├── README.md              # Project documentation, setup guide & technical summary
+└── notes.txt              # Core technical logs and engineering curriculum references
+```
+
+---
+
+### 🔀 Version Control Pipeline & Branching Strategy
+
+This visual mapping illustrates the exact Git lifecycle I use to build features, resolve conflicts, and automate cloud delivery streams cleanly.
+
+```text
+[Laptop: main branch] ───────► (git checkout -b feature-branch) ───► [Isolated Sandbox]
+                                                                            │
+[Cloud Tracker: DONE] ◄─────── (git merge PR via Closes #1) ◄───────────────┤ (git add . / commit)
+                                                                            ▼
+                                                                     [git push to Cloud]
+```
+
+---
+
+### 📂 Active Portfolios & Code Bases
+* 🛠️ **[Git & GitHub Acceleration Sprint](https://github.com):** A dedicated technical repository showcasing deep execution of enterprise-level version control habits.
+  * **Timeline Clashing:** Engineered intentional merge conflicts, successfully parsing conflict indicators (`<<<<<<<` and `>>>>>>>`) to systematically restore stable environments.
+  * **Automation Triggers:** Implemented terminal-to-cloud mapping scripts using tracking tags to automatically drive project board workflows strictly via Git execution.
 
 ---
 
