@@ -2,17 +2,16 @@
 
 A self-driven, problem-solving technologist focused on mastering modern development ecosystems, automated version control workflows, and systems engineering.
 
-<p align="left">
-  <img src="https://skillicons.dev" alt="My Tech Stack" />
-</p>
-
 ---
 
-### 🛠️ Technical Toolkit & Environment
-* **Operating System:** macOS (Unix / Zsh Terminal Ecosystem)
-* **Code Editor:** Visual Studio Code (Advanced Path & UI Optimization)
-* **Version Control:** Git Distributed Version Control & GitHub Cloud
-* **Core Practices:** Agile Task Management, Kanban Board Automation, Branch Hygiene
+### 💻 Core Tech Stack & Environment
+
+| Technology | Ecosystem Role | Focus Area |
+| :--- | :--- | :--- |
+| 🍏 **macOS** | Operating System | Unix & Zsh Terminal Execution |
+| 🧡 **Git** | Version Control | Distributed Timeline & Branching |
+| 🖤 **GitHub** | Cloud Platform | Agile Automation & Project Tracking |
+| 💙 **VS Code** | Code Editor | Development Environment & Path Tuning |
 
 ---
 
@@ -24,9 +23,7 @@ A dedicated technical repository demonstrating deep execution of enterprise-leve
 
 ---
 
-### 📊 Live GitHub Dynamics
-<!-- Wrapped to disable non-image click-through errors -->
-<div align="left">
-  <img src="https://vercel.app" alt="Fionn's Git Stats" height="150" pointer-events="none" />
-  <img src="https://vercel.app" alt="Fionn's Top Languages" height="150" pointer-events="none" />
-</div>
+### 📊 Engineering Workflow Metrics
+* 🔄 **Current Objective:** Developing robust automation pipelines and system environment scripts.
+* 🛠️ **System Hygiene:** Configured computer-wide global rules (`.gitignore_global`) to isolate production codebases from localized cache clutter.
+* 📋 **Project Strategy:** Utilizing Git command-line interfaces to bypass UI abstractions and establish foundational tracking intuition.
