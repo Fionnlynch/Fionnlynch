@@ -2,6 +2,13 @@
 
 A self-driven, problem-solving technologist focused on mastering modern development ecosystems, automated version control workflows, and systems engineering.
 
+<p align="left">
+  <img src="https://shields.io" alt="macOS" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://shields.io" alt="VS Code" />
+</p>
+
 ---
 
 ### 🛠️ Technical Toolkit & Environment
