@@ -4,6 +4,12 @@ A self-driven, problem-solving technologist focused on mastering modern developm
 
 ---
 
+> [!NOTE]
+> **Interview Status:** Actively preparing for an upcoming Apprentice Software Engineering interview. Pipelining systems knowledge, Git architecture foundations, and client-side multimedia manipulation.
+
+> [!TIP]
+> Scroll down to review the live Code Base Architectural Blueprint and Branching Strategy maps built natively using semantic markup blocks.
+
 ### 💻 Core Tech Stack & Environment
 
 | Technology | Ecosystem Role | Focus Area |
